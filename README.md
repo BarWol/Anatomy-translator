@@ -15,9 +15,6 @@ Translate flashcards from Latin to English and Polish.
 Utilize multi-threading to speed up data processing.
 Easy-to-use interface for accessing flashcard data.
 
-Disclaimer
-Important: This tool is provided for educational purposes only. Users are solely responsible for ensuring their use of this tool complies with the Terms of Service of any website they scrape, as well as applicable laws and regulations, including copyright and data protection laws. The developer is not responsible for any legal consequences arising from the use of this tool.
-
 ## Legal Notice:
 Scraping: Users should review and respect the Terms of Service of any website they scrape (e.g., Anationary). Many websites prohibit scraping, and scraping without permission may result in legal consequences.
 Copyright: If users scrape copyrighted content, they must ensure that they do not infringe on the intellectual property rights of others.
