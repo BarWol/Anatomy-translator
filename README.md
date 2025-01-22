@@ -2,7 +2,7 @@
 This tool is provided for educational purposes only. Users are solely responsible for ensuring their use of this tool complies with the Terms of Service of any website they scrape, as well as applicable laws and regulations. The developer is not responsible for any legal consequences arising from the use of this tool.
 
 ## Anatomy-translator
-Anatomy-translator is a project designed to help facilitate the translation of Quizlet Latin flashcards into English and Polish. The tool utilizes multi-threading to efficiently download and process translations. This tool can be used to scrape data from websites like [Anationary/anationary.github.io](https://github.com/Anationary/anationary.github.io) for educational purposes.
+Anatomy-translator is a project designed to help facilitate the translation of Quizlet Latin flashcards into English and Polish. The tool utilizes multi-threading to efficiently download and process translations. This tool can be used to scrape data from websites like [Anationary.github.io](https://github.com/Anationary/anationary.github.io) for educational purposes.
 
 ## Description
 This project uses threads to query and fetch data, ensuring faster downloads and translations. The main purpose is to streamline the translation of educational flashcards, particularly for the educational needs of medical students
