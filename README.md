@@ -20,3 +20,14 @@ Scraping: Users should review and respect the Terms of Service of any website th
 Copyright: If users scrape copyrighted content, they must ensure that they do not infringe on the intellectual property rights of others.
 Data Protection: Users must adhere to data protection laws (e.g., GDPR, CCPA) if they are scraping personal or sensitive data.
 Ethical Use: Users should avoid overloading servers by scraping responsibly. It is recommended to use official APIs if available.
+
+
+## How to Use
+1. Download and Extract the Zipped Release
+Go to the Releases page on GitHub.
+Download the latest release ZIP file.
+Extract the ZIP file to a location on your computer.
+copy the flaschards in format ( ;;; ) ( !!! )
+![image](https://github.com/user-attachments/assets/e5eea2f7-5227-4937-891f-ef97f242045f)
+press ctrl - v button in the app
+![image](https://github.com/user-attachments/assets/960b53a0-f125-497e-9822-a66cf9720320)
