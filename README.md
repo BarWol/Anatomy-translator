@@ -31,3 +31,5 @@ copy the flaschards in format ( ;;; ) ( !!! )
 ![image](https://github.com/user-attachments/assets/e5eea2f7-5227-4937-891f-ef97f242045f)
 press ctrl - v button in the app
 ![image](https://github.com/user-attachments/assets/960b53a0-f125-497e-9822-a66cf9720320)
+
+[text that you can copy to play with it](https://github.com/BarWol/Anatomy-translator/blob/main/docs/text_to_tinker.txt)
